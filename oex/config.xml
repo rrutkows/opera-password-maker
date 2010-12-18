@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xml:lang="en">
+    <name>Password Maker</name>
+    <description>A SuperGenPass implementation</description>
+    <description xml:lang="pl">Implementacja SuperGenPass</description>
+    <author href="http://my.opera.com/rrutkows/">Rafał Rutkowski</author>
+</widget>
