@@ -7,7 +7,7 @@ describe("Password Maker", function() {
 
     it("should get domain name from URL properly", function() {
         var testData = [
-            ["https://www.google.com/accounts/ServiceLogin?service=mail", "google.com"],
+            ["https://www.google.com/accounts/Login?hl=pl&continue=http://www.google.pl/", "google.com"],
 
             ["http://www.anathema.art.pl/forum/login.php", "anathema.art.pl"],
 
