@@ -10,6 +10,8 @@ describe("Password Maker", function() {
             ["https://www.google.com/accounts/Login?hl=pl&continue=http://www.google.pl/", "google.com"],
 
             ["http://www.anathema.art.pl/forum/login.php", "anathema.art.pl"],
+            
+            ["http://foo.example.com:1234/bar", "example.com"],
 
             ["http://a.ba.ar", "a.ba.ar"],
             ["http://a.uba.ar", "uba.ar"],

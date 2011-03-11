@@ -1,5 +1,5 @@
 function getDomainName(url) {
-    var host = /^[^:]*:\/\/([^/]*)/.exec(url)[1];
+    var host = /^[^:]*:\/\/([^/:]*)/.exec(url)[1];
     var labels = host.split(".");
     var top = labels[labels.length - 1];
     var tldNames = effectiveTLDNames[top] || ["*"],
