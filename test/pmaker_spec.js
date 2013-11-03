@@ -9,6 +9,9 @@ describe("Password Maker", function() {
         var testData = [
             ["https://www.google.com/accounts/Login?hl=pl&continue=http://www.google.pl/", "google.com"],
 
+            ["googlE.com", "google.com"],
+            ["google.com?hl=pl", "google.com"],
+
             ["http://www.anathema.art.pl/forum/login.php", "anathema.art.pl"],
             
             ["http://foo.example.com:1234/bar", "example.com"],
