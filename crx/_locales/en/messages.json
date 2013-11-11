@@ -1,0 +1,11 @@
+{
+    "extension_name": {
+        "message": "Password Maker"
+    },
+    "extension_description": {
+        "message": "A SuperGenPass implementation"
+    },
+    "generate_password": {
+        "message": "Generate password"
+    }
+}
