@@ -12,6 +12,9 @@ window.addEventListener("load", function() {
     }
     
     var form = document.getElementById("form");
+    
+    form.elements["generatePasswordButton"].value =
+        chrome.i18n.getMessage("generate_password");
 
     getActiveTab(function(tab) {
         form.elements["domainName"].value = getDomainName(tab.url);
