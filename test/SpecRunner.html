@@ -4,9 +4,10 @@
 <head>
   <title>Jasmine Test Runner</title>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
-  <link rel="stylesheet" type="text/css" href="lib/jasmine-1.0.1/jasmine.css">
-  <script type="text/javascript" src="lib/jasmine-1.0.1/jasmine.js"></script>
-  <script type="text/javascript" src="lib/jasmine-1.0.1/jasmine-html.js"></script>
+  <link rel="stylesheet" type="text/css" href="../node_modules/jasmine-core/lib/jasmine-core/jasmine.css">
+  <script type="text/javascript" src="../node_modules/jasmine-core/lib/jasmine-core/jasmine.js"></script>
+  <script type="text/javascript" src="../node_modules/jasmine-core/lib/jasmine-core/jasmine-html.js"></script>
+  <script type="text/javascript" src="../node_modules/jasmine-core/lib/jasmine-core/boot.js"></script>
 
   <!-- include source files here... -->
   <script type="text/javascript" src="../common/js/md5.js"></script>
@@ -18,11 +19,5 @@
 
 </head>
 <body>
-
-<script type="text/javascript">
-  jasmine.getEnv().addReporter(new jasmine.TrivialReporter());
-  jasmine.getEnv().execute();
-</script>
-
 </body>
 </html>
