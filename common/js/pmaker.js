@@ -1,3 +1,5 @@
+b64pad = "=";
+
 function getDomainName(url) {
     var host = /^(?:[^:]*:\/\/)?([^/:?]*)/.exec(url)[1];
         host = host.toLowerCase();
@@ -49,10 +51,13 @@ function makePassword(masterPassword, domain, length) {
     var password = masterPassword + ":" + domain;
 
     password = unescape(encodeURIComponent(password));
-    
+
     for (var i = 0; i < 10 || !checkPassword(password, length); i++)
-        password = b64_md5_sgp(password);
-        
+        password = b64_md5(password)
+            .replace(/\+/g, "9")
+            .replace(/\//g, "8")
+            .replace(/=/g, "A");
+
     return password.substr(0, length);
 }
 

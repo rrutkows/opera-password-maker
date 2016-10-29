@@ -21,7 +21,6 @@ var chrsz   = 8;  /* bits per input character. 8 - ASCII; 16 - Unicode      */
  */
 function hex_md5(s){ return binl2hex(core_md5(str2binl(s), s.length * chrsz));}
 function b64_md5(s){ return binl2b64(core_md5(str2binl(s), s.length * chrsz));}
-function b64_md5_sgp(s){ return binl2b64_sgp(core_md5(str2binl(s), s.length * chrsz));}
 function str_md5(s){ return binl2str(core_md5(str2binl(s), s.length * chrsz));}
 function hex_hmac_md5(key, data) { return binl2hex(core_hmac_md5(key, data)); }
 function b64_hmac_md5(key, data) { return binl2b64(core_hmac_md5(key, data)); }
@@ -251,22 +250,6 @@ function binl2b64(binarray)
     {
       if(i * 8 + j * 6 > binarray.length * 32) str += b64pad;
       else str += tab.charAt((triplet >> 6*(3-j)) & 0x3F);
-    }
-  }
-  return str;
-}
-function binl2b64_sgp(binarray)
-{
-  var tab = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz012345678998";
-  var str = "";
-  for(var i = 0; i < binarray.length * 4; i += 3)
-  {
-    var triplet = (((binarray[i   >> 2] >> 8 * ( i   %4)) & 0xFF) << 16)
-                | (((binarray[i+1 >> 2] >> 8 * ((i+1)%4)) & 0xFF) << 8 )
-                |  ((binarray[i+2 >> 2] >> 8 * ((i+2)%4)) & 0xFF);
-    for(var j = 0; j < 4; j++)
-    {
-      str += tab.charAt((triplet >> 6*(3-j)) & 0x3F);
     }
   }
   return str;
