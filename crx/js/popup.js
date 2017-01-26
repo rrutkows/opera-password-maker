@@ -1,5 +1,6 @@
-window.addEventListener("load", function() {
+/* global getDomainName, makePassword */
 
+window.addEventListener('load', function() {
     function getActiveTab(callback) {
         chrome.tabs.query({
             active: true,
@@ -10,21 +11,22 @@ window.addEventListener("load", function() {
             }
         });
     }
-    
-    var form = document.getElementById("form");
-    
-    form.elements["generatePasswordButton"].value =
-        chrome.i18n.getMessage("generate_password");
+
+    var form = document.getElementById('form');
+
+    form.elements['generatePasswordButton'].value =
+        chrome.i18n.getMessage('generate_password');
 
     getActiveTab(function(tab) {
-        form.elements["domainName"].value = getDomainName(tab.url);
+        form.elements['domainName'].value = getDomainName(tab.url);
     });
 
-    form.addEventListener("submit", function(e) {
+    form.addEventListener('submit', function(e) {
         e.preventDefault();
-        var masterPassword = form.elements["masterPassword"].value,
-            domainName = form.elements["domainName"].value,
-            password = makePassword(masterPassword, domainName, 10);
+        var masterPassword = form.elements['masterPassword'].value;
+        var domainName = form.elements['domainName'].value;
+        var password = makePassword(masterPassword, domainName, 10);
+
         getActiveTab(function(tab) {
             chrome.tabs.sendMessage(tab.id, {password: password});
             window.close();
