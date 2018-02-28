@@ -5,7 +5,7 @@
         "promise"
     ],
     "parserOptions": {
-        "sourceType": "script"
+        "sourceType": "module"
     },
     "env": {
         "node": false

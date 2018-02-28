@@ -23,7 +23,7 @@ readline.createInterface
     dict[key].push line
 .on 'close', ->
     list.sort()
-    write 'var effectiveTLDNames = {'
+    write 'export default {'
     for key, i in list
         write ',' if i > 0
         write "\n \"#{key}\": ["

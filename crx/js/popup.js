@@ -1,4 +1,4 @@
-/* global getDomainName, makePassword */
+import { getDomainName, makePassword } from 'pmaker-lib/pmaker';
 
 window.addEventListener('load', function() {
     function getActiveTab(callback) {

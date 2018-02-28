@@ -1,4 +1,4 @@
-var effectiveTLDNames = {
+export default {
  "aaa": [
     "aaa"],
  "aarp": [

@@ -1,7 +1,6 @@
-/* global effectiveTLDNames, b64pad:true, b64_md5 */
-/* exported getDomainName, makePassword, b64pad */
-
-b64pad = '=';
+import effectiveTLDNames from './effectiveTLDNames';
+import md5 from 'crypto-js/md5';
+import base64 from 'crypto-js/enc-base64';
 
 function getDomainName(url) {
     var host = /^(?:[^:]*:\/\/)?([^/:?]*)/.exec(url)[1];
@@ -59,10 +58,8 @@ function createDomainName(labels, level) {
 function makePassword(masterPassword, domain, length) {
     var password = masterPassword + ':' + domain;
 
-    password = unescape(encodeURIComponent(password));
-
     for (var i = 0; i < 10 || !checkPassword(password, length); i++) {
-        password = b64_md5(password)
+        password = md5(password).toString(base64)
             .replace(/\+/g, '9')
             .replace(/\//g, '8')
             .replace(/=/g, 'A');
@@ -75,3 +72,5 @@ function checkPassword(password, length) {
     password = password.substr(0, length);
     return password.search(/[a-z]/) === 0 && password.search(/[0-9]/) > 0 && password.search(/[A-Z]/) > 0;
 }
+
+export { getDomainName, makePassword };
