@@ -41,5 +41,9 @@ describe('UrlParser', () => {
         it('parses the exception', () => {
             expect(urlParser.getDomainName('x.y.cc.bb.a')).toBe('cc.bb.a');
         });
+
+        it('uses * as the default rule', () => {
+            expect(urlParser.getDomainName('x.y.other')).toBe('y.other');
+        });
     });
 });

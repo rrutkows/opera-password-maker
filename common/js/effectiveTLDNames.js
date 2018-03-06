@@ -1,24 +1,4 @@
 export default {
- "aaa": [
-    "aaa"],
- "aarp": [
-    "aarp"],
- "abarth": [
-    "abarth"],
- "abb": [
-    "abb"],
- "abbott": [
-    "abbott"],
- "abbvie": [
-    "abbvie"],
- "abc": [
-    "abc"],
- "able": [
-    "able"],
- "abogado": [
-    "abogado"],
- "abudhabi": [
-    "abudhabi"],
  "ac": [
     "ac",
     "com.ac",
@@ -27,29 +7,9 @@ export default {
     "net.ac",
     "mil.ac",
     "org.ac"],
- "academy": [
-    "academy"],
- "accenture": [
-    "accenture"],
- "accountant": [
-    "accountant"],
- "accountants": [
-    "accountants"],
- "aco": [
-    "aco"],
- "active": [
-    "active"],
- "actor": [
-    "actor"],
  "ad": [
     "ad",
     "nom.ad"],
- "adac": [
-    "adac"],
- "ads": [
-    "ads"],
- "adult": [
-    "adult"],
  "ae": [
     "ae",
     "co.ae",
@@ -60,8 +20,6 @@ export default {
     "gov.ae",
     "mil.ae",
     "blogspot.ae"],
- "aeg": [
-    "aeg"],
  "aero": [
     "aero",
     "accident-investigation.aero",
@@ -151,8 +109,6 @@ export default {
     "union.aero",
     "workinggroup.aero",
     "works.aero"],
- "aetna": [
-    "aetna"],
  "af": [
     "af",
     "gov.af",
@@ -160,14 +116,6 @@ export default {
     "org.af",
     "net.af",
     "edu.af"],
- "afamilycompany": [
-    "afamilycompany"],
- "afl": [
-    "afl"],
- "africa": [
-    "africa"],
- "africamagic": [
-    "africamagic"],
  "ag": [
     "ag",
     "com.ag",
@@ -175,28 +123,12 @@ export default {
     "net.ag",
     "co.ag",
     "nom.ag"],
- "agakhan": [
-    "agakhan"],
- "agency": [
-    "agency"],
  "ai": [
     "ai",
     "off.ai",
     "com.ai",
     "net.ai",
     "org.ai"],
- "aig": [
-    "aig"],
- "aigo": [
-    "aigo"],
- "airbus": [
-    "airbus"],
- "airforce": [
-    "airforce"],
- "airtel": [
-    "airtel"],
- "akdn": [
-    "akdn"],
  "al": [
     "al",
     "com.al",
@@ -206,45 +138,9 @@ export default {
     "net.al",
     "org.al",
     "blogspot.al"],
- "alfaromeo": [
-    "alfaromeo"],
- "alibaba": [
-    "alibaba"],
- "alipay": [
-    "alipay"],
- "allfinanz": [
-    "allfinanz"],
- "allstate": [
-    "allstate"],
- "ally": [
-    "ally"],
- "alsace": [
-    "alsace"],
- "alstom": [
-    "alstom"],
  "am": [
     "am",
     "blogspot.am"],
- "americanexpress": [
-    "americanexpress"],
- "americanfamily": [
-    "americanfamily"],
- "amex": [
-    "amex"],
- "amfam": [
-    "amfam"],
- "amica": [
-    "amica"],
- "amsterdam": [
-    "amsterdam"],
- "analytics": [
-    "analytics"],
- "android": [
-    "android"],
- "anquan": [
-    "anquan"],
- "anz": [
-    "anz"],
  "ao": [
     "ao",
     "ed.ao",
@@ -253,18 +149,6 @@ export default {
     "co.ao",
     "pb.ao",
     "it.ao"],
- "aol": [
-    "aol"],
- "apartments": [
-    "apartments"],
- "app": [
-    "app"],
- "apple": [
-    "apple"],
- "aq": [
-    "aq"],
- "aquarelle": [
-    "aquarelle"],
  "ar": [
     "ar",
     "com.ar",
@@ -277,12 +161,6 @@ export default {
     "org.ar",
     "tur.ar",
     "blogspot.com.ar"],
- "aramco": [
-    "aramco"],
- "archi": [
-    "archi"],
- "army": [
-    "army"],
  "arpa": [
     "arpa",
     "e164.arpa",
@@ -291,17 +169,9 @@ export default {
     "iris.arpa",
     "uri.arpa",
     "urn.arpa"],
- "arte": [
-    "arte"],
  "as": [
     "as",
     "gov.as"],
- "asda": [
-    "asda"],
- "asia": [
-    "asia"],
- "associates": [
-    "associates"],
  "at": [
     "at",
     "ac.at",
@@ -312,10 +182,6 @@ export default {
     "biz.at",
     "info.at",
     "priv.at"],
- "athleta": [
-    "athleta"],
- "attorney": [
-    "attorney"],
  "au": [
     "au",
     "com.au",
@@ -350,33 +216,9 @@ export default {
     "vic.gov.au",
     "wa.gov.au",
     "blogspot.com.au"],
- "auction": [
-    "auction"],
- "audi": [
-    "audi"],
- "audible": [
-    "audible"],
- "audio": [
-    "audio"],
- "auspost": [
-    "auspost"],
- "author": [
-    "author"],
- "auto": [
-    "auto"],
- "autos": [
-    "autos"],
- "avianca": [
-    "avianca"],
  "aw": [
     "aw",
     "com.aw"],
- "aws": [
-    "aws"],
- "ax": [
-    "ax"],
- "axa": [
-    "axa"],
  "az": [
     "az",
     "com.az",
@@ -391,8 +233,6 @@ export default {
     "name.az",
     "pro.az",
     "biz.az"],
- "azure": [
-    "azure"],
  "ba": [
     "ba",
     "org.ba",
@@ -406,38 +246,6 @@ export default {
     "com.ba",
     "rs.ba",
     "blogspot.ba"],
- "baby": [
-    "baby"],
- "baidu": [
-    "baidu"],
- "banamex": [
-    "banamex"],
- "bananarepublic": [
-    "bananarepublic"],
- "band": [
-    "band"],
- "bank": [
-    "bank"],
- "bar": [
-    "bar"],
- "barcelona": [
-    "barcelona"],
- "barclaycard": [
-    "barclaycard"],
- "barclays": [
-    "barclays"],
- "barefoot": [
-    "barefoot"],
- "bargains": [
-    "bargains"],
- "baseball": [
-    "baseball"],
- "basketball": [
-    "basketball"],
- "bauhaus": [
-    "bauhaus"],
- "bayern": [
-    "bayern"],
  "bb": [
     "bb",
     "biz.bb",
@@ -450,36 +258,10 @@ export default {
     "org.bb",
     "store.bb",
     "tv.bb"],
- "bbc": [
-    "bbc"],
- "bbt": [
-    "bbt"],
- "bbva": [
-    "bbva"],
- "bcg": [
-    "bcg"],
- "bcn": [
-    "bcn"],
- "bd": [
-    "*.bd"],
  "be": [
     "be",
     "ac.be",
     "blogspot.be"],
- "beats": [
-    "beats"],
- "beer": [
-    "beer"],
- "bentley": [
-    "bentley"],
- "berlin": [
-    "berlin"],
- "best": [
-    "best"],
- "bestbuy": [
-    "bestbuy"],
- "bet": [
-    "bet"],
  "bf": [
     "bf",
     "gov.bf"],
@@ -529,8 +311,6 @@ export default {
     "net.bh",
     "org.bh",
     "gov.bh"],
- "bharti": [
-    "bharti"],
  "bi": [
     "bi",
     "co.bi",
@@ -538,18 +318,6 @@ export default {
     "edu.bi",
     "or.bi",
     "org.bi"],
- "bible": [
-    "bible"],
- "bid": [
-    "bid"],
- "bike": [
-    "bike"],
- "bing": [
-    "bing"],
- "bingo": [
-    "bingo"],
- "bio": [
-    "bio"],
  "biz": [
     "biz",
     "dyndns.biz",
@@ -566,20 +334,6 @@ export default {
     "barreau.bj",
     "gouv.bj",
     "blogspot.bj"],
- "black": [
-    "black"],
- "blackfriday": [
-    "blackfriday"],
- "blanco": [
-    "blanco"],
- "blockbuster": [
-    "blockbuster"],
- "blog": [
-    "blog"],
- "bloomberg": [
-    "bloomberg"],
- "blue": [
-    "blue"],
  "bm": [
     "bm",
     "com.bm",
@@ -587,16 +341,6 @@ export default {
     "gov.bm",
     "net.bm",
     "org.bm"],
- "bms": [
-    "bms"],
- "bmw": [
-    "bmw"],
- "bn": [
-    "*.bn"],
- "bnl": [
-    "bnl"],
- "bnpparibas": [
-    "bnpparibas"],
  "bo": [
     "bo",
     "com.bo",
@@ -608,32 +352,6 @@ export default {
     "net.bo",
     "mil.bo",
     "tv.bo"],
- "boats": [
-    "boats"],
- "boehringer": [
-    "boehringer"],
- "bofa": [
-    "bofa"],
- "bom": [
-    "bom"],
- "bond": [
-    "bond"],
- "boo": [
-    "boo"],
- "book": [
-    "book"],
- "booking": [
-    "booking"],
- "boots": [
-    "boots"],
- "bosch": [
-    "bosch"],
- "bostik": [
-    "bostik"],
- "bot": [
-    "bot"],
- "boutique": [
-    "boutique"],
  "br": [
     "br",
     "adm.br",
@@ -707,18 +425,6 @@ export default {
     "wiki.br",
     "zlg.br",
     "blogspot.com.br"],
- "bradesco": [
-    "bradesco"],
- "bridgestone": [
-    "bridgestone"],
- "broadway": [
-    "broadway"],
- "broker": [
-    "broker"],
- "brother": [
-    "brother"],
- "brussels": [
-    "brussels"],
  "bs": [
     "bs",
     "com.bs",
@@ -733,22 +439,6 @@ export default {
     "gov.bt",
     "net.bt",
     "org.bt"],
- "budapest": [
-    "budapest"],
- "bugatti": [
-    "bugatti"],
- "build": [
-    "build"],
- "builders": [
-    "builders"],
- "business": [
-    "business"],
- "buy": [
-    "buy"],
- "buzz": [
-    "buzz"],
- "bv": [
-    "bv"],
  "bw": [
     "bw",
     "co.bw",
@@ -768,8 +458,6 @@ export default {
     "edu.bz",
     "gov.bz",
     "za.bz"],
- "bzh": [
-    "bzh"],
  "ca": [
     "ca",
     "ab.ca",
@@ -789,70 +477,6 @@ export default {
     "gc.ca",
     "co.ca",
     "blogspot.ca"],
- "cab": [
-    "cab"],
- "cafe": [
-    "cafe"],
- "cal": [
-    "cal"],
- "call": [
-    "call"],
- "calvinklein": [
-    "calvinklein"],
- "camera": [
-    "camera"],
- "camp": [
-    "camp"],
- "cancerresearch": [
-    "cancerresearch"],
- "canon": [
-    "canon"],
- "capetown": [
-    "capetown"],
- "capital": [
-    "capital"],
- "capitalone": [
-    "capitalone"],
- "car": [
-    "car"],
- "caravan": [
-    "caravan"],
- "cards": [
-    "cards"],
- "care": [
-    "care"],
- "career": [
-    "career"],
- "careers": [
-    "careers"],
- "cars": [
-    "cars"],
- "cartier": [
-    "cartier"],
- "casa": [
-    "casa"],
- "case": [
-    "case"],
- "caseih": [
-    "caseih"],
- "cash": [
-    "cash"],
- "casino": [
-    "casino"],
- "cat": [
-    "cat"],
- "catering": [
-    "catering"],
- "catholic": [
-    "catholic"],
- "cba": [
-    "cba"],
- "cbn": [
-    "cbn"],
- "cbre": [
-    "cbre"],
- "cbs": [
-    "cbs"],
  "cc": [
     "cc",
     "ftpaccess.cc",
@@ -862,48 +486,12 @@ export default {
  "cd": [
     "cd",
     "gov.cd"],
- "ceb": [
-    "ceb"],
- "center": [
-    "center"],
- "ceo": [
-    "ceo"],
- "cern": [
-    "cern"],
  "cf": [
     "cf",
     "blogspot.cf"],
- "cfa": [
-    "cfa"],
- "cfd": [
-    "cfd"],
- "cg": [
-    "cg"],
  "ch": [
     "ch",
     "blogspot.ch"],
- "chanel": [
-    "chanel"],
- "channel": [
-    "channel"],
- "chase": [
-    "chase"],
- "chat": [
-    "chat"],
- "cheap": [
-    "cheap"],
- "chintai": [
-    "chintai"],
- "chloe": [
-    "chloe"],
- "christmas": [
-    "christmas"],
- "chrome": [
-    "chrome"],
- "chrysler": [
-    "chrysler"],
- "church": [
-    "church"],
  "ci": [
     "ci",
     "org.ci",
@@ -921,22 +509,6 @@ export default {
     "presse.ci",
     "md.ci",
     "gouv.ci"],
- "cipriani": [
-    "cipriani"],
- "circle": [
-    "circle"],
- "cisco": [
-    "cisco"],
- "citadel": [
-    "citadel"],
- "citi": [
-    "citi"],
- "citic": [
-    "citic"],
- "city": [
-    "city"],
- "cityeats": [
-    "cityeats"],
  "ck": [
     "*.ck",
     "!www.ck"],
@@ -947,24 +519,6 @@ export default {
     "co.cl",
     "mil.cl",
     "blogspot.cl"],
- "claims": [
-    "claims"],
- "cleaning": [
-    "cleaning"],
- "click": [
-    "click"],
- "clinic": [
-    "clinic"],
- "clinique": [
-    "clinique"],
- "clothing": [
-    "clothing"],
- "cloud": [
-    "cloud"],
- "club": [
-    "club"],
- "clubmed": [
-    "clubmed"],
  "cm": [
     "cm",
     "co.cm",
@@ -1036,16 +590,6 @@ export default {
     "rec.co",
     "web.co",
     "blogspot.com.co"],
- "coach": [
-    "coach"],
- "codes": [
-    "codes"],
- "coffee": [
-    "coffee"],
- "college": [
-    "college"],
- "cologne": [
-    "cologne"],
  "com": [
     "com",
     "ap-northeast-1.compute.amazonaws.com",
@@ -1284,48 +828,6 @@ export default {
     "familyds.com",
     "hk.com",
     "yolasite.com"],
- "comcast": [
-    "comcast"],
- "commbank": [
-    "commbank"],
- "community": [
-    "community"],
- "company": [
-    "company"],
- "compare": [
-    "compare"],
- "computer": [
-    "computer"],
- "comsec": [
-    "comsec"],
- "condos": [
-    "condos"],
- "construction": [
-    "construction"],
- "consulting": [
-    "consulting"],
- "contact": [
-    "contact"],
- "contractors": [
-    "contractors"],
- "cooking": [
-    "cooking"],
- "cookingchannel": [
-    "cookingchannel"],
- "cool": [
-    "cool"],
- "coop": [
-    "coop"],
- "corsica": [
-    "corsica"],
- "country": [
-    "country"],
- "coupon": [
-    "coupon"],
- "coupons": [
-    "coupons"],
- "courses": [
-    "courses"],
  "cr": [
     "cr",
     "ac.cr",
@@ -1335,22 +837,6 @@ export default {
     "go.cr",
     "or.cr",
     "sa.cr"],
- "credit": [
-    "credit"],
- "creditcard": [
-    "creditcard"],
- "creditunion": [
-    "creditunion"],
- "cricket": [
-    "cricket"],
- "crown": [
-    "crown"],
- "crs": [
-    "crs"],
- "cruises": [
-    "cruises"],
- "csc": [
-    "csc"],
  "cu": [
     "cu",
     "com.cu",
@@ -1359,8 +845,6 @@ export default {
     "net.cu",
     "gov.cu",
     "inf.cu"],
- "cuisinella": [
-    "cuisinella"],
  "cv": [
     "cv",
     "blogspot.cv"],
@@ -1389,31 +873,9 @@ export default {
     "pro.cy",
     "tm.cy",
     "blogspot.com.cy"],
- "cymru": [
-    "cymru"],
- "cyou": [
-    "cyou"],
  "cz": [
     "cz",
     "blogspot.cz"],
- "dabur": [
-    "dabur"],
- "dad": [
-    "dad"],
- "dance": [
-    "dance"],
- "date": [
-    "date"],
- "dating": [
-    "dating"],
- "datsun": [
-    "datsun"],
- "day": [
-    "day"],
- "dclk": [
-    "dclk"],
- "dds": [
-    "dds"],
  "de": [
     "de",
     "com.de",
@@ -1424,56 +886,6 @@ export default {
     "leitungsen.de",
     "traeumtgerade.de",
     "blogspot.de"],
- "deal": [
-    "deal"],
- "dealer": [
-    "dealer"],
- "deals": [
-    "deals"],
- "degree": [
-    "degree"],
- "delivery": [
-    "delivery"],
- "dell": [
-    "dell"],
- "deloitte": [
-    "deloitte"],
- "delta": [
-    "delta"],
- "democrat": [
-    "democrat"],
- "dental": [
-    "dental"],
- "dentist": [
-    "dentist"],
- "desi": [
-    "desi"],
- "design": [
-    "design"],
- "dev": [
-    "dev"],
- "dhl": [
-    "dhl"],
- "diamonds": [
-    "diamonds"],
- "diet": [
-    "diet"],
- "digital": [
-    "digital"],
- "direct": [
-    "direct"],
- "directory": [
-    "directory"],
- "discount": [
-    "discount"],
- "discover": [
-    "discover"],
- "dish": [
-    "dish"],
- "diy": [
-    "diy"],
- "dj": [
-    "dj"],
  "dk": [
     "dk",
     "blogspot.dk"],
@@ -1484,8 +896,6 @@ export default {
     "org.dm",
     "edu.dm",
     "gov.dm"],
- "dnp": [
-    "dnp"],
  "do": [
     "do",
     "art.do",
@@ -1498,44 +908,6 @@ export default {
     "org.do",
     "sld.do",
     "web.do"],
- "docs": [
-    "docs"],
- "dodge": [
-    "dodge"],
- "dog": [
-    "dog"],
- "doha": [
-    "doha"],
- "domains": [
-    "domains"],
- "doosan": [
-    "doosan"],
- "dot": [
-    "dot"],
- "download": [
-    "download"],
- "drive": [
-    "drive"],
- "dstv": [
-    "dstv"],
- "dtv": [
-    "dtv"],
- "dubai": [
-    "dubai"],
- "duck": [
-    "duck"],
- "dunlop": [
-    "dunlop"],
- "duns": [
-    "duns"],
- "dupont": [
-    "dupont"],
- "durban": [
-    "durban"],
- "dvag": [
-    "dvag"],
- "dwg": [
-    "dwg"],
  "dz": [
     "dz",
     "com.dz",
@@ -1546,10 +918,6 @@ export default {
     "asso.dz",
     "pol.dz",
     "art.dz"],
- "earth": [
-    "earth"],
- "eat": [
-    "eat"],
  "ec": [
     "ec",
     "com.ec",
@@ -1564,12 +932,6 @@ export default {
     "gov.ec",
     "gob.ec",
     "mil.ec"],
- "edeka": [
-    "edeka"],
- "edu": [
-    "edu"],
- "education": [
-    "education"],
  "ee": [
     "ee",
     "edu.ee",
@@ -1595,32 +957,6 @@ export default {
     "org.eg",
     "sci.eg",
     "blogspot.com.eg"],
- "email": [
-    "email"],
- "emerck": [
-    "emerck"],
- "emerson": [
-    "emerson"],
- "energy": [
-    "energy"],
- "engineer": [
-    "engineer"],
- "engineering": [
-    "engineering"],
- "enterprises": [
-    "enterprises"],
- "epost": [
-    "epost"],
- "epson": [
-    "epson"],
- "equipment": [
-    "equipment"],
- "er": [
-    "*.er"],
- "ericsson": [
-    "ericsson"],
- "erni": [
-    "erni"],
  "es": [
     "es",
     "com.es",
@@ -1629,12 +965,6 @@ export default {
     "gob.es",
     "edu.es",
     "blogspot.com.es"],
- "esq": [
-    "esq"],
- "estate": [
-    "estate"],
- "esurance": [
-    "esurance"],
  "et": [
     "et",
     "com.et",
@@ -1645,131 +975,11 @@ export default {
     "name.et",
     "info.et",
     "net.et"],
- "etisalat": [
-    "etisalat"],
- "eu": [
-    "eu"],
- "eurovision": [
-    "eurovision"],
- "eus": [
-    "eus"],
- "events": [
-    "events"],
- "everbank": [
-    "everbank"],
- "exchange": [
-    "exchange"],
- "expert": [
-    "expert"],
- "exposed": [
-    "exposed"],
- "express": [
-    "express"],
- "extraspace": [
-    "extraspace"],
- "fage": [
-    "fage"],
- "fail": [
-    "fail"],
- "fairwinds": [
-    "fairwinds"],
- "faith": [
-    "faith"],
- "family": [
-    "family"],
- "fan": [
-    "fan"],
- "fans": [
-    "fans"],
- "farm": [
-    "farm"],
- "farmers": [
-    "farmers"],
- "fashion": [
-    "fashion"],
- "fast": [
-    "fast"],
- "fedex": [
-    "fedex"],
- "feedback": [
-    "feedback"],
- "ferrari": [
-    "ferrari"],
- "ferrero": [
-    "ferrero"],
  "fi": [
     "fi",
     "aland.fi",
     "blogspot.fi",
     "iki.fi"],
- "fiat": [
-    "fiat"],
- "fidelity": [
-    "fidelity"],
- "fido": [
-    "fido"],
- "film": [
-    "film"],
- "final": [
-    "final"],
- "finance": [
-    "finance"],
- "financial": [
-    "financial"],
- "fire": [
-    "fire"],
- "firestone": [
-    "firestone"],
- "firmdale": [
-    "firmdale"],
- "fish": [
-    "fish"],
- "fishing": [
-    "fishing"],
- "fit": [
-    "fit"],
- "fitness": [
-    "fitness"],
- "fj": [
-    "*.fj"],
- "fk": [
-    "*.fk"],
- "flickr": [
-    "flickr"],
- "flights": [
-    "flights"],
- "flir": [
-    "flir"],
- "florist": [
-    "florist"],
- "flowers": [
-    "flowers"],
- "flsmidth": [
-    "flsmidth"],
- "fly": [
-    "fly"],
- "fm": [
-    "fm"],
- "fo": [
-    "fo"],
- "foo": [
-    "foo"],
- "foodnetwork": [
-    "foodnetwork"],
- "football": [
-    "football"],
- "ford": [
-    "ford"],
- "forex": [
-    "forex"],
- "forsale": [
-    "forsale"],
- "forum": [
-    "forum"],
- "foundation": [
-    "foundation"],
- "fox": [
-    "fox"],
  "fr": [
     "fr",
     "com.fr",
@@ -1796,56 +1006,6 @@ export default {
     "port.fr",
     "veterinaire.fr",
     "blogspot.fr"],
- "fresenius": [
-    "fresenius"],
- "frl": [
-    "frl"],
- "frogans": [
-    "frogans"],
- "frontdoor": [
-    "frontdoor"],
- "frontier": [
-    "frontier"],
- "ftr": [
-    "ftr"],
- "fujitsu": [
-    "fujitsu"],
- "fujixerox": [
-    "fujixerox"],
- "fund": [
-    "fund"],
- "furniture": [
-    "furniture"],
- "futbol": [
-    "futbol"],
- "fyi": [
-    "fyi"],
- "ga": [
-    "ga"],
- "gal": [
-    "gal"],
- "gallery": [
-    "gallery"],
- "gallo": [
-    "gallo"],
- "gallup": [
-    "gallup"],
- "game": [
-    "game"],
- "games": [
-    "games"],
- "gap": [
-    "gap"],
- "garden": [
-    "garden"],
- "gb": [
-    "gb"],
- "gbiz": [
-    "gbiz"],
- "gd": [
-    "gd"],
- "gdn": [
-    "gdn"],
  "ge": [
     "ge",
     "com.ge",
@@ -1855,23 +1015,11 @@ export default {
     "mil.ge",
     "net.ge",
     "pvt.ge"],
- "gea": [
-    "gea"],
- "gent": [
-    "gent"],
- "genting": [
-    "genting"],
- "george": [
-    "george"],
- "gf": [
-    "gf"],
  "gg": [
     "gg",
     "co.gg",
     "net.gg",
     "org.gg"],
- "ggee": [
-    "ggee"],
  "gh": [
     "gh",
     "com.gh",
@@ -1887,14 +1035,6 @@ export default {
     "mod.gi",
     "edu.gi",
     "org.gi"],
- "gift": [
-    "gift"],
- "gifts": [
-    "gifts"],
- "gives": [
-    "gives"],
- "giving": [
-    "giving"],
  "gl": [
     "gl",
     "co.gl",
@@ -1902,24 +1042,6 @@ export default {
     "edu.gl",
     "net.gl",
     "org.gl"],
- "glade": [
-    "glade"],
- "glass": [
-    "glass"],
- "gle": [
-    "gle"],
- "global": [
-    "global"],
- "globo": [
-    "globo"],
- "gm": [
-    "gm"],
- "gmail": [
-    "gmail"],
- "gmo": [
-    "gmo"],
- "gmx": [
-    "gmx"],
  "gn": [
     "gn",
     "ac.gn",
@@ -1928,32 +1050,6 @@ export default {
     "gov.gn",
     "org.gn",
     "net.gn"],
- "godaddy": [
-    "godaddy"],
- "gold": [
-    "gold"],
- "goldpoint": [
-    "goldpoint"],
- "golf": [
-    "golf"],
- "goo": [
-    "goo"],
- "goodhands": [
-    "goodhands"],
- "goodyear": [
-    "goodyear"],
- "goog": [
-    "goog"],
- "google": [
-    "google"],
- "gop": [
-    "gop"],
- "got": [
-    "got"],
- "gotv": [
-    "gotv"],
- "gov": [
-    "gov"],
  "gp": [
     "gp",
     "com.gp",
@@ -1962,8 +1058,6 @@ export default {
     "edu.gp",
     "org.gp",
     "asso.gp"],
- "gq": [
-    "gq"],
  "gr": [
     "gr",
     "com.gr",
@@ -1972,20 +1066,6 @@ export default {
     "org.gr",
     "gov.gr",
     "blogspot.gr"],
- "grainger": [
-    "grainger"],
- "graphics": [
-    "graphics"],
- "gratis": [
-    "gratis"],
- "green": [
-    "green"],
- "gripe": [
-    "gripe"],
- "group": [
-    "group"],
- "gs": [
-    "gs"],
  "gt": [
     "gt",
     "com.gt",
@@ -1995,61 +1075,11 @@ export default {
     "mil.gt",
     "net.gt",
     "org.gt"],
- "gu": [
-    "*.gu"],
- "guardian": [
-    "guardian"],
- "gucci": [
-    "gucci"],
- "guge": [
-    "guge"],
- "guide": [
-    "guide"],
- "guitars": [
-    "guitars"],
- "guru": [
-    "guru"],
- "gw": [
-    "gw"],
  "gy": [
     "gy",
     "co.gy",
     "com.gy",
     "net.gy"],
- "hamburg": [
-    "hamburg"],
- "hangout": [
-    "hangout"],
- "haus": [
-    "haus"],
- "hbo": [
-    "hbo"],
- "hdfc": [
-    "hdfc"],
- "hdfcbank": [
-    "hdfcbank"],
- "health": [
-    "health"],
- "healthcare": [
-    "healthcare"],
- "help": [
-    "help"],
- "helsinki": [
-    "helsinki"],
- "here": [
-    "here"],
- "hermes": [
-    "hermes"],
- "hgtv": [
-    "hgtv"],
- "hiphop": [
-    "hiphop"],
- "hisamitsu": [
-    "hisamitsu"],
- "hitachi": [
-    "hitachi"],
- "hiv": [
-    "hiv"],
  "hk": [
     "hk",
     "com.hk",
@@ -2076,10 +1106,6 @@ export default {
     "blogspot.hk",
     "ltd.hk",
     "inc.hk"],
- "hkt": [
-    "hkt"],
- "hm": [
-    "hm"],
  "hn": [
     "hn",
     "com.hn",
@@ -2088,40 +1114,6 @@ export default {
     "net.hn",
     "mil.hn",
     "gob.hn"],
- "hockey": [
-    "hockey"],
- "holdings": [
-    "holdings"],
- "holiday": [
-    "holiday"],
- "homedepot": [
-    "homedepot"],
- "homegoods": [
-    "homegoods"],
- "homes": [
-    "homes"],
- "homesense": [
-    "homesense"],
- "honda": [
-    "honda"],
- "honeywell": [
-    "honeywell"],
- "horse": [
-    "horse"],
- "host": [
-    "host"],
- "hosting": [
-    "hosting"],
- "hot": [
-    "hot"],
- "hoteles": [
-    "hoteles"],
- "hotmail": [
-    "hotmail"],
- "house": [
-    "house"],
- "how": [
-    "how"],
  "hr": [
     "hr",
     "iz.hr",
@@ -2129,8 +1121,6 @@ export default {
     "name.hr",
     "com.hr",
     "blogspot.hr"],
- "hsbc": [
-    "hsbc"],
  "ht": [
     "ht",
     "com.ht",
@@ -2150,8 +1140,6 @@ export default {
     "rel.ht",
     "gouv.ht",
     "perso.ht"],
- "htc": [
-    "htc"],
  "hu": [
     "hu",
     "co.hu",
@@ -2186,20 +1174,6 @@ export default {
     "utazas.hu",
     "video.hu",
     "blogspot.hu"],
- "hughes": [
-    "hughes"],
- "hyatt": [
-    "hyatt"],
- "hyundai": [
-    "hyundai"],
- "ibm": [
-    "ibm"],
- "icbc": [
-    "icbc"],
- "ice": [
-    "ice"],
- "icu": [
-    "icu"],
  "id": [
     "id",
     "ac.id",
@@ -2218,14 +1192,6 @@ export default {
     "ie",
     "gov.ie",
     "blogspot.ie"],
- "ieee": [
-    "ieee"],
- "ifm": [
-    "ifm"],
- "iinet": [
-    "iinet"],
- "ikano": [
-    "ikano"],
  "il": [
     "il",
     "ac.il",
@@ -2248,14 +1214,6 @@ export default {
     "plc.co.im",
     "tt.im",
     "tv.im"],
- "imamat": [
-    "imamat"],
- "imdb": [
-    "imdb"],
- "immo": [
-    "immo"],
- "immobilien": [
-    "immobilien"],
  "in": [
     "in",
     "co.in",
@@ -2271,10 +1229,6 @@ export default {
     "gov.in",
     "mil.in",
     "blogspot.in"],
- "industries": [
-    "industries"],
- "infiniti": [
-    "infiniti"],
  "info": [
     "info",
     "dyndns.info",
@@ -2287,27 +1241,9 @@ export default {
     "knowsitall.info",
     "selfip.info",
     "webhop.info"],
- "ing": [
-    "ing"],
- "ink": [
-    "ink"],
- "institute": [
-    "institute"],
- "insurance": [
-    "insurance"],
- "insure": [
-    "insure"],
  "int": [
     "int",
     "eu.int"],
- "intel": [
-    "intel"],
- "international": [
-    "international"],
- "intuit": [
-    "intuit"],
- "investments": [
-    "investments"],
  "io": [
     "io",
     "com.io",
@@ -2316,8 +1252,6 @@ export default {
     "nid.io",
     "pantheon.io",
     "sandcats.io"],
- "ipiranga": [
-    "ipiranga"],
  "iq": [
     "iq",
     "gov.iq",
@@ -2337,8 +1271,6 @@ export default {
     "sch.ir",
     "ایران.ir",
     "ايران.ir"],
- "irish": [
-    "irish"],
  "is": [
     "is",
     "net.is",
@@ -2349,14 +1281,6 @@ export default {
     "int.is",
     "cupcake.is",
     "blogspot.is"],
- "iselect": [
-    "iselect"],
- "ismaili": [
-    "ismaili"],
- "ist": [
-    "ist"],
- "istanbul": [
-    "istanbul"],
  "it": [
     "it",
     "gov.it",
@@ -2728,45 +1652,11 @@ export default {
     "vt.it",
     "vv.it",
     "blogspot.it"],
- "itau": [
-    "itau"],
- "itv": [
-    "itv"],
- "iveco": [
-    "iveco"],
- "iwc": [
-    "iwc"],
- "jaguar": [
-    "jaguar"],
- "java": [
-    "java"],
- "jcb": [
-    "jcb"],
- "jcp": [
-    "jcp"],
  "je": [
     "je",
     "co.je",
     "net.je",
     "org.je"],
- "jeep": [
-    "jeep"],
- "jetzt": [
-    "jetzt"],
- "jewelry": [
-    "jewelry"],
- "jio": [
-    "jio"],
- "jlc": [
-    "jlc"],
- "jll": [
-    "jll"],
- "jm": [
-    "*.jm"],
- "jmp": [
-    "jmp"],
- "jnj": [
-    "jnj"],
  "jo": [
     "jo",
     "com.jo",
@@ -2777,14 +1667,6 @@ export default {
     "gov.jo",
     "mil.jo",
     "name.jo"],
- "jobs": [
-    "jobs"],
- "joburg": [
-    "joburg"],
- "jot": [
-    "jot"],
- "joy": [
-    "joy"],
  "jp": [
     "jp",
     "ac.jp",
@@ -4582,29 +3464,9 @@ export default {
     "yamanakako.yamanashi.jp",
     "yamanashi.yamanashi.jp",
     "blogspot.jp"],
- "jpmorgan": [
-    "jpmorgan"],
- "jprs": [
-    "jprs"],
- "juegos": [
-    "juegos"],
- "juniper": [
-    "juniper"],
- "kaufen": [
-    "kaufen"],
- "kddi": [
-    "kddi"],
  "ke": [
     "*.ke",
     "blogspot.co.ke"],
- "kerryhotels": [
-    "kerryhotels"],
- "kerrylogistics": [
-    "kerrylogistics"],
- "kerryproperties": [
-    "kerryproperties"],
- "kfh": [
-    "kfh"],
  "kg": [
     "kg",
     "org.kg",
@@ -4613,8 +3475,6 @@ export default {
     "edu.kg",
     "gov.kg",
     "mil.kg"],
- "kh": [
-    "*.kh"],
  "ki": [
     "ki",
     "edu.ki",
@@ -4624,18 +3484,6 @@ export default {
     "gov.ki",
     "info.ki",
     "com.ki"],
- "kia": [
-    "kia"],
- "kim": [
-    "kim"],
- "kinder": [
-    "kinder"],
- "kindle": [
-    "kindle"],
- "kitchen": [
-    "kitchen"],
- "kiwi": [
-    "kiwi"],
  "km": [
     "km",
     "org.km",
@@ -4661,12 +3509,6 @@ export default {
     "org.kn",
     "edu.kn",
     "gov.kn"],
- "koeln": [
-    "koeln"],
- "komatsu": [
-    "komatsu"],
- "kosher": [
-    "kosher"],
  "kp": [
     "kp",
     "com.kp",
@@ -4675,10 +3517,6 @@ export default {
     "org.kp",
     "rep.kp",
     "tra.kp"],
- "kpmg": [
-    "kpmg"],
- "kpn": [
-    "kpn"],
  "kr": [
     "kr",
     "ac.kr",
@@ -4711,14 +3549,6 @@ export default {
     "seoul.kr",
     "ulsan.kr",
     "blogspot.kr"],
- "krd": [
-    "krd"],
- "kred": [
-    "kred"],
- "kuokgroup": [
-    "kuokgroup"],
- "kw": [
-    "*.kw"],
  "ky": [
     "ky",
     "edu.ky",
@@ -4726,10 +3556,6 @@ export default {
     "com.ky",
     "org.ky",
     "net.ky"],
- "kyknet": [
-    "kyknet"],
- "kyoto": [
-    "kyoto"],
  "kz": [
     "kz",
     "org.kz",
@@ -4749,38 +3575,6 @@ export default {
     "com.la",
     "org.la",
     "c.la"],
- "lacaixa": [
-    "lacaixa"],
- "ladbrokes": [
-    "ladbrokes"],
- "lamborghini": [
-    "lamborghini"],
- "lamer": [
-    "lamer"],
- "lancaster": [
-    "lancaster"],
- "lancia": [
-    "lancia"],
- "lancome": [
-    "lancome"],
- "land": [
-    "land"],
- "landrover": [
-    "landrover"],
- "lanxess": [
-    "lanxess"],
- "lasalle": [
-    "lasalle"],
- "lat": [
-    "lat"],
- "latino": [
-    "latino"],
- "latrobe": [
-    "latrobe"],
- "law": [
-    "law"],
- "lawyer": [
-    "lawyer"],
  "lb": [
     "lb",
     "com.lb",
@@ -4796,59 +3590,9 @@ export default {
     "org.lc",
     "edu.lc",
     "gov.lc"],
- "lds": [
-    "lds"],
- "lease": [
-    "lease"],
- "leclerc": [
-    "leclerc"],
- "lefrak": [
-    "lefrak"],
- "legal": [
-    "legal"],
- "lego": [
-    "lego"],
- "lexus": [
-    "lexus"],
- "lgbt": [
-    "lgbt"],
  "li": [
     "li",
     "blogspot.li"],
- "liaison": [
-    "liaison"],
- "lidl": [
-    "lidl"],
- "life": [
-    "life"],
- "lifeinsurance": [
-    "lifeinsurance"],
- "lifestyle": [
-    "lifestyle"],
- "lighting": [
-    "lighting"],
- "like": [
-    "like"],
- "lilly": [
-    "lilly"],
- "limited": [
-    "limited"],
- "limo": [
-    "limo"],
- "lincoln": [
-    "lincoln"],
- "linde": [
-    "linde"],
- "link": [
-    "link"],
- "lipsy": [
-    "lipsy"],
- "live": [
-    "live"],
- "living": [
-    "living"],
- "lixil": [
-    "lixil"],
  "lk": [
     "lk",
     "gov.lk",
@@ -4866,30 +3610,6 @@ export default {
     "grp.lk",
     "hotel.lk",
     "ac.lk"],
- "loan": [
-    "loan"],
- "loans": [
-    "loans"],
- "locker": [
-    "locker"],
- "locus": [
-    "locus"],
- "loft": [
-    "loft"],
- "lol": [
-    "lol"],
- "london": [
-    "london"],
- "lotte": [
-    "lotte"],
- "lotto": [
-    "lotto"],
- "love": [
-    "love"],
- "lpl": [
-    "lpl"],
- "lplfinancial": [
-    "lplfinancial"],
  "lr": [
     "lr",
     "com.lr",
@@ -4905,21 +3625,9 @@ export default {
     "lt",
     "gov.lt",
     "blogspot.lt"],
- "ltd": [
-    "ltd"],
- "ltda": [
-    "ltda"],
  "lu": [
     "lu",
     "blogspot.lu"],
- "lundbeck": [
-    "lundbeck"],
- "lupin": [
-    "lupin"],
- "luxe": [
-    "luxe"],
- "luxury": [
-    "luxury"],
  "lv": [
     "lv",
     "com.lv",
@@ -4950,48 +3658,10 @@ export default {
     "org.ma",
     "ac.ma",
     "press.ma"],
- "macys": [
-    "macys"],
- "madrid": [
-    "madrid"],
- "maif": [
-    "maif"],
- "maison": [
-    "maison"],
- "makeup": [
-    "makeup"],
- "man": [
-    "man"],
- "management": [
-    "management"],
- "mango": [
-    "mango"],
- "market": [
-    "market"],
- "marketing": [
-    "marketing"],
- "markets": [
-    "markets"],
- "marriott": [
-    "marriott"],
- "marshalls": [
-    "marshalls"],
- "maserati": [
-    "maserati"],
- "mattel": [
-    "mattel"],
- "mba": [
-    "mba"],
  "mc": [
     "mc",
     "tm.mc",
     "asso.mc"],
- "mcd": [
-    "mcd"],
- "mcdonalds": [
-    "mcdonalds"],
- "mckinsey": [
-    "mckinsey"],
  "md": [
     "md",
     "blogspot.md"],
@@ -5010,26 +3680,6 @@ export default {
     "i234.me",
     "myds.me",
     "dscloud.me"],
- "med": [
-    "med"],
- "media": [
-    "media"],
- "meet": [
-    "meet"],
- "melbourne": [
-    "melbourne"],
- "meme": [
-    "meme"],
- "memorial": [
-    "memorial"],
- "men": [
-    "men"],
- "menu": [
-    "menu"],
- "meo": [
-    "meo"],
- "metlife": [
-    "metlife"],
  "mg": [
     "mg",
     "org.mg",
@@ -5041,22 +3691,6 @@ export default {
     "mil.mg",
     "com.mg",
     "co.mg"],
- "mh": [
-    "mh"],
- "miami": [
-    "miami"],
- "microsoft": [
-    "microsoft"],
- "mil": [
-    "mil"],
- "mini": [
-    "mini"],
- "mint": [
-    "mint"],
- "mit": [
-    "mit"],
- "mitsubishi": [
-    "mitsubishi"],
  "mk": [
     "mk",
     "com.mk",
@@ -5076,22 +3710,12 @@ export default {
     "net.ml",
     "org.ml",
     "presse.ml"],
- "mlb": [
-    "mlb"],
- "mls": [
-    "mls"],
- "mm": [
-    "*.mm"],
- "mma": [
-    "mma"],
  "mn": [
     "mn",
     "gov.mn",
     "edu.mn",
     "org.mn",
     "nyc.mn"],
- "mnet": [
-    "mnet"],
  "mo": [
     "mo",
     "com.mo",
@@ -5102,46 +3726,6 @@ export default {
  "mobi": [
     "mobi",
     "dscloud.mobi"],
- "mobily": [
-    "mobily"],
- "moda": [
-    "moda"],
- "moe": [
-    "moe"],
- "moi": [
-    "moi"],
- "mom": [
-    "mom"],
- "monash": [
-    "monash"],
- "money": [
-    "money"],
- "monster": [
-    "monster"],
- "montblanc": [
-    "montblanc"],
- "mopar": [
-    "mopar"],
- "mormon": [
-    "mormon"],
- "mortgage": [
-    "mortgage"],
- "moscow": [
-    "moscow"],
- "moto": [
-    "moto"],
- "motorcycles": [
-    "motorcycles"],
- "mov": [
-    "mov"],
- "movie": [
-    "movie"],
- "movistar": [
-    "movistar"],
- "mp": [
-    "mp"],
- "mq": [
-    "mq"],
  "mr": [
     "mr",
     "gov.mr",
@@ -5153,8 +3737,6 @@ export default {
     "gov.ms",
     "net.ms",
     "org.ms"],
- "msd": [
-    "msd"],
  "mt": [
     "mt",
     "com.mt",
@@ -5162,12 +3744,6 @@ export default {
     "net.mt",
     "org.mt",
     "blogspot.com.mt"],
- "mtn": [
-    "mtn"],
- "mtpc": [
-    "mtpc"],
- "mtr": [
-    "mtr"],
  "mu": [
     "mu",
     "com.mu",
@@ -5177,8 +3753,6 @@ export default {
     "ac.mu",
     "co.mu",
     "or.mu"],
- "multichoice": [
-    "multichoice"],
  "museum": [
     "museum",
     "academy.museum",
@@ -5729,10 +4303,6 @@ export default {
     "zoology.museum",
     "ירושלים.museum",
     "иком.museum"],
- "mutual": [
-    "mutual"],
- "mutuelle": [
-    "mutuelle"],
  "mv": [
     "mv",
     "aero.mv",
@@ -5783,8 +4353,6 @@ export default {
  "mz": [
     "*.mz",
     "!teledata.mz"],
- "mzansimagic": [
-    "mzansimagic"],
  "na": [
     "na",
     "info.na",
@@ -5804,33 +4372,13 @@ export default {
     "co.na",
     "com.na",
     "org.na"],
- "nab": [
-    "nab"],
- "nadex": [
-    "nadex"],
- "nagoya": [
-    "nagoya"],
  "name": [
     "name",
     "forgot.her.name",
     "forgot.his.name"],
- "naspers": [
-    "naspers"],
- "nationwide": [
-    "nationwide"],
- "natura": [
-    "natura"],
- "navy": [
-    "navy"],
- "nba": [
-    "nba"],
  "nc": [
     "nc",
     "asso.nc"],
- "ne": [
-    "ne"],
- "nec": [
-    "nec"],
  "net": [
     "net",
     "cloudfront.net",
@@ -5890,26 +4438,6 @@ export default {
     "dsmynas.net",
     "familyds.net",
     "za.net"],
- "netbank": [
-    "netbank"],
- "netflix": [
-    "netflix"],
- "network": [
-    "network"],
- "neustar": [
-    "neustar"],
- "new": [
-    "new"],
- "newholland": [
-    "newholland"],
- "news": [
-    "news"],
- "next": [
-    "next"],
- "nextdirect": [
-    "nextdirect"],
- "nexus": [
-    "nexus"],
  "nf": [
     "nf",
     "com.nf",
@@ -5922,8 +4450,6 @@ export default {
     "info.nf",
     "other.nf",
     "store.nf"],
- "nfl": [
-    "nfl"],
  "ng": [
     "ng",
     "com.ng",
@@ -5936,10 +4462,6 @@ export default {
     "mil.ng",
     "mobi.ng",
     "blogspot.com.ng"],
- "ngo": [
-    "ngo"],
- "nhk": [
-    "nhk"],
  "ni": [
     "com.ni",
     "gob.ni",
@@ -5955,18 +4477,6 @@ export default {
     "ac.ni",
     "in.ni",
     "info.ni"],
- "nico": [
-    "nico"],
- "nike": [
-    "nike"],
- "nikon": [
-    "nikon"],
- "ninja": [
-    "ninja"],
- "nissan": [
-    "nissan"],
- "nissay": [
-    "nissay"],
  "nl": [
     "nl",
     "bv.nl",
@@ -6729,20 +5239,6 @@ export default {
     "våler.hedmark.no",
     "co.no",
     "blogspot.no"],
- "nokia": [
-    "nokia"],
- "northwesternmutual": [
-    "northwesternmutual"],
- "norton": [
-    "norton"],
- "now": [
-    "now"],
- "nowruz": [
-    "nowruz"],
- "nowtv": [
-    "nowtv"],
- "np": [
-    "*.np"],
  "nr": [
     "nr",
     "biz.nr",
@@ -6752,19 +5248,11 @@ export default {
     "org.nr",
     "net.nr",
     "com.nr"],
- "nra": [
-    "nra"],
- "nrw": [
-    "nrw"],
- "ntt": [
-    "ntt"],
  "nu": [
     "nu",
     "merseine.nu",
     "mine.nu",
     "shacknet.nu"],
- "nyc": [
-    "nyc"],
  "nz": [
     "nz",
     "ac.nz",
@@ -6784,24 +5272,6 @@ export default {
     "parliament.nz",
     "school.nz",
     "blogspot.co.nz"],
- "obi": [
-    "obi"],
- "observer": [
-    "observer"],
- "off": [
-    "off"],
- "office": [
-    "office"],
- "okinawa": [
-    "okinawa"],
- "olayan": [
-    "olayan"],
- "olayangroup": [
-    "olayangroup"],
- "oldnavy": [
-    "oldnavy"],
- "ollo": [
-    "ollo"],
  "om": [
     "om",
     "co.om",
@@ -6813,26 +5283,6 @@ export default {
     "net.om",
     "org.om",
     "pro.om"],
- "omega": [
-    "omega"],
- "one": [
-    "one"],
- "ong": [
-    "ong"],
- "onl": [
-    "onl"],
- "online": [
-    "online"],
- "onyourside": [
-    "onyourside"],
- "ooo": [
-    "ooo"],
- "open": [
-    "open"],
- "oracle": [
-    "oracle"],
- "orange": [
-    "orange"],
  "org": [
     "org",
     "ae.org",
@@ -6954,20 +5404,6 @@ export default {
     "familyds.org",
     "hk.org",
     "za.org"],
- "organic": [
-    "organic"],
- "orientexpress": [
-    "orientexpress"],
- "origins": [
-    "origins"],
- "osaka": [
-    "osaka"],
- "otsuka": [
-    "otsuka"],
- "ott": [
-    "ott"],
- "ovh": [
-    "ovh"],
  "pa": [
     "pa",
     "ac.pa",
@@ -6981,32 +5417,6 @@ export default {
     "abo.pa",
     "med.pa",
     "nom.pa"],
- "page": [
-    "page"],
- "pamperedchef": [
-    "pamperedchef"],
- "panasonic": [
-    "panasonic"],
- "panerai": [
-    "panerai"],
- "paris": [
-    "paris"],
- "pars": [
-    "pars"],
- "partners": [
-    "partners"],
- "parts": [
-    "parts"],
- "party": [
-    "party"],
- "passagens": [
-    "passagens"],
- "pay": [
-    "pay"],
- "payu": [
-    "payu"],
- "pccw": [
-    "pccw"],
  "pe": [
     "pe",
     "edu.pe",
@@ -7017,17 +5427,11 @@ export default {
     "com.pe",
     "net.pe",
     "blogspot.pe"],
- "pet": [
-    "pet"],
  "pf": [
     "pf",
     "com.pf",
     "org.pf",
     "edu.pf"],
- "pfizer": [
-    "pfizer"],
- "pg": [
-    "*.pg"],
  "ph": [
     "ph",
     "com.ph",
@@ -7038,38 +5442,6 @@ export default {
     "ngo.ph",
     "mil.ph",
     "i.ph"],
- "pharmacy": [
-    "pharmacy"],
- "philips": [
-    "philips"],
- "photo": [
-    "photo"],
- "photography": [
-    "photography"],
- "photos": [
-    "photos"],
- "physio": [
-    "physio"],
- "piaget": [
-    "piaget"],
- "pics": [
-    "pics"],
- "pictet": [
-    "pictet"],
- "pictures": [
-    "pictures"],
- "pid": [
-    "pid"],
- "pin": [
-    "pin"],
- "ping": [
-    "ping"],
- "pink": [
-    "pink"],
- "pioneer": [
-    "pioneer"],
- "pizza": [
-    "pizza"],
  "pk": [
     "pk",
     "com.pk",
@@ -7300,18 +5672,6 @@ export default {
     "gdynia.pl",
     "med.pl",
     "sopot.pl"],
- "place": [
-    "place"],
- "play": [
-    "play"],
- "playstation": [
-    "playstation"],
- "plumbing": [
-    "plumbing"],
- "plus": [
-    "plus"],
- "pm": [
-    "pm"],
  "pn": [
     "pn",
     "gov.pn",
@@ -7319,18 +5679,6 @@ export default {
     "org.pn",
     "edu.pn",
     "net.pn"],
- "pnc": [
-    "pnc"],
- "pohl": [
-    "pohl"],
- "poker": [
-    "poker"],
- "politie": [
-    "politie"],
- "porn": [
-    "porn"],
- "post": [
-    "post"],
  "pr": [
     "pr",
     "com.pr",
@@ -7346,14 +5694,6 @@ export default {
     "est.pr",
     "prof.pr",
     "ac.pr"],
- "pramerica": [
-    "pramerica"],
- "praxi": [
-    "praxi"],
- "press": [
-    "press"],
- "prime": [
-    "prime"],
  "pro": [
     "pro",
     "aca.pro",
@@ -7363,26 +5703,6 @@ export default {
     "law.pro",
     "med.pro",
     "eng.pro"],
- "prod": [
-    "prod"],
- "productions": [
-    "productions"],
- "prof": [
-    "prof"],
- "progressive": [
-    "progressive"],
- "promo": [
-    "promo"],
- "properties": [
-    "properties"],
- "property": [
-    "property"],
- "protection": [
-    "protection"],
- "pru": [
-    "pru"],
- "prudential": [
-    "prudential"],
  "ps": [
     "ps",
     "edu.ps",
@@ -7403,8 +5723,6 @@ export default {
     "com.pt",
     "nome.pt",
     "blogspot.pt"],
- "pub": [
-    "pub"],
  "pw": [
     "pw",
     "co.pw",
@@ -7413,8 +5731,6 @@ export default {
     "ed.pw",
     "go.pw",
     "belau.pw"],
- "pwc": [
-    "pwc"],
  "py": [
     "py",
     "com.py",
@@ -7435,86 +5751,12 @@ export default {
     "org.qa",
     "sch.qa",
     "blogspot.qa"],
- "qpon": [
-    "qpon"],
- "quebec": [
-    "quebec"],
- "quest": [
-    "quest"],
- "qvc": [
-    "qvc"],
- "racing": [
-    "racing"],
- "raid": [
-    "raid"],
  "re": [
     "re",
     "com.re",
     "asso.re",
     "nom.re",
     "blogspot.re"],
- "read": [
-    "read"],
- "realestate": [
-    "realestate"],
- "realtor": [
-    "realtor"],
- "realty": [
-    "realty"],
- "recipes": [
-    "recipes"],
- "red": [
-    "red"],
- "redstone": [
-    "redstone"],
- "redumbrella": [
-    "redumbrella"],
- "rehab": [
-    "rehab"],
- "reise": [
-    "reise"],
- "reisen": [
-    "reisen"],
- "reit": [
-    "reit"],
- "reliance": [
-    "reliance"],
- "ren": [
-    "ren"],
- "rent": [
-    "rent"],
- "rentals": [
-    "rentals"],
- "repair": [
-    "repair"],
- "report": [
-    "report"],
- "republican": [
-    "republican"],
- "rest": [
-    "rest"],
- "restaurant": [
-    "restaurant"],
- "review": [
-    "review"],
- "reviews": [
-    "reviews"],
- "rexroth": [
-    "rexroth"],
- "rich": [
-    "rich"],
- "richardli": [
-    "richardli"],
- "ricoh": [
-    "ricoh"],
- "rightathome": [
-    "rightathome"],
- "ril": [
-    "ril"],
- "rio": [
-    "rio"],
- "rip": [
-    "rip"],
  "ro": [
     "ro",
     "com.ro",
@@ -7529,16 +5771,6 @@ export default {
     "store.ro",
     "www.ro",
     "blogspot.ro"],
- "rocher": [
-    "rocher"],
- "rocks": [
-    "rocks"],
- "rodeo": [
-    "rodeo"],
- "rogers": [
-    "rogers"],
- "room": [
-    "room"],
  "rs": [
     "rs",
     "co.rs",
@@ -7548,8 +5780,6 @@ export default {
     "gov.rs",
     "in.rs",
     "blogspot.rs"],
- "rsvp": [
-    "rsvp"],
  "ru": [
     "ru",
     "ac.ru",
@@ -7683,10 +5913,6 @@ export default {
     "mil.ru",
     "test.ru",
     "blogspot.ru"],
- "ruhr": [
-    "ruhr"],
- "run": [
-    "run"],
  "rw": [
     "rw",
     "gov.rw",
@@ -7698,10 +5924,6 @@ export default {
     "int.rw",
     "mil.rw",
     "gouv.rw"],
- "rwe": [
-    "rwe"],
- "ryukyu": [
-    "ryukyu"],
  "sa": [
     "sa",
     "com.sa",
@@ -7712,40 +5934,6 @@ export default {
     "pub.sa",
     "edu.sa",
     "sch.sa"],
- "saarland": [
-    "saarland"],
- "safe": [
-    "safe"],
- "safety": [
-    "safety"],
- "sakura": [
-    "sakura"],
- "sale": [
-    "sale"],
- "salon": [
-    "salon"],
- "samsclub": [
-    "samsclub"],
- "samsung": [
-    "samsung"],
- "sandvik": [
-    "sandvik"],
- "sandvikcoromant": [
-    "sandvikcoromant"],
- "sanofi": [
-    "sanofi"],
- "sap": [
-    "sap"],
- "sapo": [
-    "sapo"],
- "sarl": [
-    "sarl"],
- "sas": [
-    "sas"],
- "save": [
-    "save"],
- "saxo": [
-    "saxo"],
  "sb": [
     "sb",
     "com.sb",
@@ -7753,10 +5941,6 @@ export default {
     "gov.sb",
     "net.sb",
     "org.sb"],
- "sbi": [
-    "sbi"],
- "sbs": [
-    "sbs"],
  "sc": [
     "sc",
     "com.sc",
@@ -7764,30 +5948,6 @@ export default {
     "net.sc",
     "org.sc",
     "edu.sc"],
- "sca": [
-    "sca"],
- "scb": [
-    "scb"],
- "schaeffler": [
-    "schaeffler"],
- "schmidt": [
-    "schmidt"],
- "scholarships": [
-    "scholarships"],
- "school": [
-    "school"],
- "schule": [
-    "schule"],
- "schwarz": [
-    "schwarz"],
- "science": [
-    "science"],
- "scjohnson": [
-    "scjohnson"],
- "scor": [
-    "scor"],
- "scot": [
-    "scot"],
  "sd": [
     "sd",
     "com.sd",
@@ -7841,32 +6001,6 @@ export default {
     "z.se",
     "com.se",
     "blogspot.se"],
- "seat": [
-    "seat"],
- "secure": [
-    "secure"],
- "security": [
-    "security"],
- "seek": [
-    "seek"],
- "select": [
-    "select"],
- "sener": [
-    "sener"],
- "services": [
-    "services"],
- "ses": [
-    "ses"],
- "seven": [
-    "seven"],
- "sew": [
-    "sew"],
- "sex": [
-    "sex"],
- "sexy": [
-    "sexy"],
- "sfr": [
-    "sfr"],
  "sg": [
     "sg",
     "com.sg",
@@ -7885,52 +6019,12 @@ export default {
     "mil.sh",
     "*.platform.sh",
     "hashbang.sh"],
- "shangrila": [
-    "shangrila"],
- "sharp": [
-    "sharp"],
- "shaw": [
-    "shaw"],
- "shell": [
-    "shell"],
- "shia": [
-    "shia"],
- "shiksha": [
-    "shiksha"],
- "shoes": [
-    "shoes"],
- "shouji": [
-    "shouji"],
- "show": [
-    "show"],
- "showtime": [
-    "showtime"],
- "shriram": [
-    "shriram"],
  "si": [
     "si",
     "blogspot.si"],
- "silk": [
-    "silk"],
- "sina": [
-    "sina"],
- "singles": [
-    "singles"],
- "site": [
-    "site"],
- "sj": [
-    "sj"],
  "sk": [
     "sk",
     "blogspot.sk"],
- "ski": [
-    "ski"],
- "skin": [
-    "skin"],
- "sky": [
-    "sky"],
- "skype": [
-    "skype"],
  "sl": [
     "sl",
     "com.sl",
@@ -7938,14 +6032,6 @@ export default {
     "edu.sl",
     "gov.sl",
     "org.sl"],
- "sling": [
-    "sling"],
- "sm": [
-    "sm"],
- "smart": [
-    "smart"],
- "smile": [
-    "smile"],
  "sn": [
     "sn",
     "art.sn",
@@ -7956,47 +6042,11 @@ export default {
     "perso.sn",
     "univ.sn",
     "blogspot.sn"],
- "sncf": [
-    "sncf"],
  "so": [
     "so",
     "com.so",
     "net.so",
     "org.so"],
- "soccer": [
-    "soccer"],
- "social": [
-    "social"],
- "softbank": [
-    "softbank"],
- "software": [
-    "software"],
- "sohu": [
-    "sohu"],
- "solar": [
-    "solar"],
- "solutions": [
-    "solutions"],
- "song": [
-    "song"],
- "sony": [
-    "sony"],
- "soy": [
-    "soy"],
- "space": [
-    "space"],
- "spiegel": [
-    "spiegel"],
- "spot": [
-    "spot"],
- "spreadbetting": [
-    "spreadbetting"],
- "sr": [
-    "sr"],
- "srl": [
-    "srl"],
- "srt": [
-    "srt"],
  "st": [
     "st",
     "co.st",
@@ -8011,36 +6061,6 @@ export default {
     "principe.st",
     "saotome.st",
     "store.st"],
- "stada": [
-    "stada"],
- "staples": [
-    "staples"],
- "star": [
-    "star"],
- "starhub": [
-    "starhub"],
- "statebank": [
-    "statebank"],
- "statefarm": [
-    "statefarm"],
- "statoil": [
-    "statoil"],
- "stc": [
-    "stc"],
- "stcgroup": [
-    "stcgroup"],
- "stockholm": [
-    "stockholm"],
- "storage": [
-    "storage"],
- "store": [
-    "store"],
- "studio": [
-    "studio"],
- "study": [
-    "study"],
- "style": [
-    "style"],
  "su": [
     "su",
     "adygeya.su",
@@ -8075,22 +6095,6 @@ export default {
     "vladikavkaz.su",
     "vladimir.su",
     "vologda.su"],
- "sucks": [
-    "sucks"],
- "supersport": [
-    "supersport"],
- "supplies": [
-    "supplies"],
- "supply": [
-    "supply"],
- "support": [
-    "support"],
- "surf": [
-    "surf"],
- "surgery": [
-    "surgery"],
- "suzuki": [
-    "suzuki"],
  "sv": [
     "sv",
     "com.sv",
@@ -8098,12 +6102,6 @@ export default {
     "gob.sv",
     "org.sv",
     "red.sv"],
- "swatch": [
-    "swatch"],
- "swiftcover": [
-    "swiftcover"],
- "swiss": [
-    "swiss"],
  "sx": [
     "sx",
     "gov.sx"],
@@ -8115,68 +6113,14 @@ export default {
     "mil.sy",
     "com.sy",
     "org.sy"],
- "sydney": [
-    "sydney"],
- "symantec": [
-    "symantec"],
- "systems": [
-    "systems"],
  "sz": [
     "sz",
     "co.sz",
     "ac.sz",
     "org.sz"],
- "tab": [
-    "tab"],
- "taipei": [
-    "taipei"],
- "talk": [
-    "talk"],
- "taobao": [
-    "taobao"],
- "target": [
-    "target"],
- "tatamotors": [
-    "tatamotors"],
- "tatar": [
-    "tatar"],
- "tattoo": [
-    "tattoo"],
- "tax": [
-    "tax"],
- "taxi": [
-    "taxi"],
- "tc": [
-    "tc"],
- "tci": [
-    "tci"],
  "td": [
     "td",
     "blogspot.td"],
- "tdk": [
-    "tdk"],
- "team": [
-    "team"],
- "tech": [
-    "tech"],
- "technology": [
-    "technology"],
- "tel": [
-    "tel"],
- "telecity": [
-    "telecity"],
- "telefonica": [
-    "telefonica"],
- "temasek": [
-    "temasek"],
- "tennis": [
-    "tennis"],
- "teva": [
-    "teva"],
- "tf": [
-    "tf"],
- "tg": [
-    "tg"],
  "th": [
     "th",
     "ac.th",
@@ -8186,28 +6130,6 @@ export default {
     "mi.th",
     "net.th",
     "or.th"],
- "thd": [
-    "thd"],
- "theater": [
-    "theater"],
- "theatre": [
-    "theatre"],
- "theguardian": [
-    "theguardian"],
- "tiaa": [
-    "tiaa"],
- "tickets": [
-    "tickets"],
- "tienda": [
-    "tienda"],
- "tiffany": [
-    "tiffany"],
- "tips": [
-    "tips"],
- "tires": [
-    "tires"],
- "tirol": [
-    "tirol"],
  "tj": [
     "tj",
     "ac.tj",
@@ -8225,14 +6147,6 @@ export default {
     "org.tj",
     "test.tj",
     "web.tj"],
- "tjmaxx": [
-    "tjmaxx"],
- "tjx": [
-    "tjx"],
- "tk": [
-    "tk"],
- "tkmaxx": [
-    "tkmaxx"],
  "tl": [
     "tl",
     "gov.tl"],
@@ -8246,8 +6160,6 @@ export default {
     "gov.tm",
     "mil.tm",
     "edu.tm"],
- "tmall": [
-    "tmall"],
  "tn": [
     "tn",
     "com.tn",
@@ -8278,30 +6190,6 @@ export default {
     "org.to",
     "edu.to",
     "mil.to"],
- "today": [
-    "today"],
- "tokyo": [
-    "tokyo"],
- "tools": [
-    "tools"],
- "top": [
-    "top"],
- "toray": [
-    "toray"],
- "toshiba": [
-    "toshiba"],
- "total": [
-    "total"],
- "tours": [
-    "tours"],
- "town": [
-    "town"],
- "toyota": [
-    "toyota"],
- "toys": [
-    "toys"],
- "tp": [
-    "tp"],
  "tr": [
     "tr",
     "com.tr",
@@ -8327,24 +6215,6 @@ export default {
     "nc.tr",
     "gov.nc.tr",
     "blogspot.com.tr"],
- "trade": [
-    "trade"],
- "trading": [
-    "trading"],
- "training": [
-    "training"],
- "travel": [
-    "travel"],
- "travelchannel": [
-    "travelchannel"],
- "travelers": [
-    "travelers"],
- "travelersinsurance": [
-    "travelersinsurance"],
- "trust": [
-    "trust"],
- "trv": [
-    "trv"],
  "tt": [
     "tt",
     "co.tt",
@@ -8364,22 +6234,12 @@ export default {
     "name.tt",
     "gov.tt",
     "edu.tt"],
- "tube": [
-    "tube"],
- "tui": [
-    "tui"],
- "tunes": [
-    "tunes"],
- "tushu": [
-    "tushu"],
  "tv": [
     "tv",
     "dyndns.tv",
     "better-than.tv",
     "on-the-web.tv",
     "worse-than.tv"],
- "tvs": [
-    "tvs"],
  "tw": [
     "tw",
     "edu.tw",
@@ -8491,12 +6351,6 @@ export default {
     "biz.ua",
     "co.ua",
     "pp.ua"],
- "ubank": [
-    "ubank"],
- "ubs": [
-    "ubs"],
- "uconnect": [
-    "uconnect"],
  "ug": [
     "ug",
     "co.ug",
@@ -8523,16 +6377,6 @@ export default {
     "*.sch.uk",
     "service.gov.uk",
     "blogspot.co.uk"],
- "unicom": [
-    "unicom"],
- "university": [
-    "university"],
- "uno": [
-    "uno"],
- "uol": [
-    "uol"],
- "ups": [
-    "ups"],
  "us": [
     "us",
     "dni.us",
@@ -8776,14 +6620,6 @@ export default {
     "com.uz",
     "net.uz",
     "org.uz"],
- "va": [
-    "va"],
- "vacations": [
-    "vacations"],
- "vana": [
-    "vana"],
- "vanguard": [
-    "vanguard"],
  "vc": [
     "vc",
     "com.vc",
@@ -8811,22 +6647,6 @@ export default {
     "store.ve",
     "tec.ve",
     "web.ve"],
- "vegas": [
-    "vegas"],
- "ventures": [
-    "ventures"],
- "verisign": [
-    "verisign"],
- "vermögensberater": [
-    "vermögensberater"],
- "vermögensberatung": [
-    "vermögensberatung"],
- "versicherung": [
-    "versicherung"],
- "vet": [
-    "vet"],
- "vg": [
-    "vg"],
  "vi": [
     "vi",
     "co.vi",
@@ -8834,36 +6654,6 @@ export default {
     "k12.vi",
     "net.vi",
     "org.vi"],
- "viajes": [
-    "viajes"],
- "video": [
-    "video"],
- "vig": [
-    "vig"],
- "viking": [
-    "viking"],
- "villas": [
-    "villas"],
- "vin": [
-    "vin"],
- "vip": [
-    "vip"],
- "virgin": [
-    "virgin"],
- "visa": [
-    "visa"],
- "vision": [
-    "vision"],
- "vista": [
-    "vista"],
- "vistaprint": [
-    "vistaprint"],
- "viva": [
-    "viva"],
- "vivo": [
-    "vivo"],
- "vlaanderen": [
-    "vlaanderen"],
  "vn": [
     "vn",
     "com.vn",
@@ -8879,92 +6669,12 @@ export default {
     "pro.vn",
     "health.vn",
     "blogspot.vn"],
- "vodka": [
-    "vodka"],
- "volkswagen": [
-    "volkswagen"],
- "vote": [
-    "vote"],
- "voting": [
-    "voting"],
- "voto": [
-    "voto"],
- "voyage": [
-    "voyage"],
  "vu": [
     "vu",
     "com.vu",
     "edu.vu",
     "net.vu",
     "org.vu"],
- "vuelos": [
-    "vuelos"],
- "wales": [
-    "wales"],
- "walmart": [
-    "walmart"],
- "walter": [
-    "walter"],
- "wang": [
-    "wang"],
- "wanggou": [
-    "wanggou"],
- "warman": [
-    "warman"],
- "watch": [
-    "watch"],
- "watches": [
-    "watches"],
- "weather": [
-    "weather"],
- "weatherchannel": [
-    "weatherchannel"],
- "webcam": [
-    "webcam"],
- "weber": [
-    "weber"],
- "website": [
-    "website"],
- "wed": [
-    "wed"],
- "wedding": [
-    "wedding"],
- "weibo": [
-    "weibo"],
- "weir": [
-    "weir"],
- "wf": [
-    "wf"],
- "whoswho": [
-    "whoswho"],
- "wien": [
-    "wien"],
- "wiki": [
-    "wiki"],
- "williamhill": [
-    "williamhill"],
- "win": [
-    "win"],
- "windows": [
-    "windows"],
- "wine": [
-    "wine"],
- "winners": [
-    "winners"],
- "wme": [
-    "wme"],
- "wolterskluwer": [
-    "wolterskluwer"],
- "woodside": [
-    "woodside"],
- "work": [
-    "work"],
- "works": [
-    "works"],
- "world": [
-    "world"],
- "wow": [
-    "wow"],
  "ws": [
     "ws",
     "com.ws",
@@ -8974,50 +6684,6 @@ export default {
     "edu.ws",
     "dyndns.ws",
     "mypets.ws"],
- "wtc": [
-    "wtc"],
- "wtf": [
-    "wtf"],
- "xbox": [
-    "xbox"],
- "xerox": [
-    "xerox"],
- "xfinity": [
-    "xfinity"],
- "xihuan": [
-    "xihuan"],
- "xin": [
-    "xin"],
- "xperia": [
-    "xperia"],
- "xxx": [
-    "xxx"],
- "xyz": [
-    "xyz"],
- "yachts": [
-    "yachts"],
- "yahoo": [
-    "yahoo"],
- "yamaxun": [
-    "yamaxun"],
- "yandex": [
-    "yandex"],
- "ye": [
-    "*.ye"],
- "yodobashi": [
-    "yodobashi"],
- "yoga": [
-    "yoga"],
- "yokohama": [
-    "yokohama"],
- "you": [
-    "you"],
- "youtube": [
-    "youtube"],
- "yt": [
-    "yt"],
- "yun": [
-    "yun"],
  "za": [
     "ac.za",
     "agrica.za",
@@ -9037,50 +6703,6 @@ export default {
     "tm.za",
     "web.za",
     "blogspot.co.za"],
- "zappos": [
-    "zappos"],
- "zara": [
-    "zara"],
- "zero": [
-    "zero"],
- "zip": [
-    "zip"],
- "zippo": [
-    "zippo"],
- "zm": [
-    "*.zm"],
- "zone": [
-    "zone"],
- "zuerich": [
-    "zuerich"],
- "zw": [
-    "*.zw"],
- "ελ": [
-    "ελ"],
- "бел": [
-    "бел"],
- "дети": [
-    "дети"],
- "католик": [
-    "католик"],
- "ком": [
-    "ком"],
- "мкд": [
-    "мкд"],
- "мон": [
-    "мон"],
- "москва": [
-    "москва"],
- "онлайн": [
-    "онлайн"],
- "орг": [
-    "орг"],
- "рус": [
-    "рус"],
- "рф": [
-    "рф"],
- "сайт": [
-    "сайт"],
  "срб": [
     "срб",
     "пр.срб",
@@ -9088,271 +6710,5 @@ export default {
     "обр.срб",
     "од.срб",
     "упр.срб",
-    "ак.срб"],
- "укр": [
-    "укр"],
- "қаз": [
-    "қаз"],
- "հայ": [
-    "հայ"],
- "קום": [
-    "קום"],
- "ابوظبي": [
-    "ابوظبي"],
- "اتصالات": [
-    "اتصالات"],
- "ارامكو": [
-    "ارامكو"],
- "الاردن": [
-    "الاردن"],
- "الجزائر": [
-    "الجزائر"],
- "السعودية": [
-    "السعودية"],
- "السعوديه": [
-    "السعوديه"],
- "السعودیة": [
-    "السعودیة"],
- "السعودیۃ": [
-    "السعودیۃ"],
- "العليان": [
-    "العليان"],
- "المغرب": [
-    "المغرب"],
- "اليمن": [
-    "اليمن"],
- "امارات": [
-    "امارات"],
- "ايران": [
-    "ايران"],
- "ایران": [
-    "ایران"],
- "بازار": [
-    "بازار"],
- "بيتك": [
-    "بيتك"],
- "بھارت": [
-    "بھارت"],
- "تونس": [
-    "تونس"],
- "سودان": [
-    "سودان"],
- "سوريا": [
-    "سوريا"],
- "سورية": [
-    "سورية"],
- "شبكة": [
-    "شبكة"],
- "عراق": [
-    "عراق"],
- "عمان": [
-    "عمان"],
- "فلسطين": [
-    "فلسطين"],
- "قطر": [
-    "قطر"],
- "كاثوليك": [
-    "كاثوليك"],
- "كوم": [
-    "كوم"],
- "مصر": [
-    "مصر"],
- "مليسيا": [
-    "مليسيا"],
- "موبايلي": [
-    "موبايلي"],
- "موقع": [
-    "موقع"],
- "همراه": [
-    "همراه"],
- "پاكستان": [
-    "پاكستان"],
- "پاکستان": [
-    "پاکستان"],
- "कॉम": [
-    "कॉम"],
- "नेट": [
-    "नेट"],
- "भारत": [
-    "भारत"],
- "संगठन": [
-    "संगठन"],
- "বাংলা": [
-    "বাংলা"],
- "ভারত": [
-    "ভারত"],
- "ਭਾਰਤ": [
-    "ਭਾਰਤ"],
- "ભારત": [
-    "ભારત"],
- "இந்தியா": [
-    "இந்தியா"],
- "இலங்கை": [
-    "இலங்கை"],
- "சிங்கப்பூர்": [
-    "சிங்கப்பூர்"],
- "భారత్": [
-    "భారత్"],
- "ලංකා": [
-    "ලංකා"],
- "คอม": [
-    "คอม"],
- "ไทย": [
-    "ไทย"],
- "გე": [
-    "გე"],
- "みんな": [
-    "みんな"],
- "クラウド": [
-    "クラウド"],
- "グーグル": [
-    "グーグル"],
- "コム": [
-    "コム"],
- "ストア": [
-    "ストア"],
- "セール": [
-    "セール"],
- "ファッション": [
-    "ファッション"],
- "ポイント": [
-    "ポイント"],
- "一号店": [
-    "一号店"],
- "世界": [
-    "世界"],
- "中信": [
-    "中信"],
- "中国": [
-    "中国"],
- "中國": [
-    "中國"],
- "中文网": [
-    "中文网"],
- "企业": [
-    "企业"],
- "佛山": [
-    "佛山"],
- "信息": [
-    "信息"],
- "健康": [
-    "健康"],
- "八卦": [
-    "八卦"],
- "公司": [
-    "公司"],
- "公益": [
-    "公益"],
- "台湾": [
-    "台湾"],
- "台灣": [
-    "台灣"],
- "商城": [
-    "商城"],
- "商店": [
-    "商店"],
- "商标": [
-    "商标"],
- "嘉里": [
-    "嘉里"],
- "嘉里大酒店": [
-    "嘉里大酒店"],
- "在线": [
-    "在线"],
- "大众汽车": [
-    "大众汽车"],
- "大拿": [
-    "大拿"],
- "天主教": [
-    "天主教"],
- "娱乐": [
-    "娱乐"],
- "家電": [
-    "家電"],
- "工行": [
-    "工行"],
- "广东": [
-    "广东"],
- "微博": [
-    "微博"],
- "慈善": [
-    "慈善"],
- "我爱你": [
-    "我爱你"],
- "手机": [
-    "手机"],
- "手表": [
-    "手表"],
- "政务": [
-    "政务"],
- "政府": [
-    "政府"],
- "新加坡": [
-    "新加坡"],
- "新闻": [
-    "新闻"],
- "时尚": [
-    "时尚"],
- "書籍": [
-    "書籍"],
- "机构": [
-    "机构"],
- "淡马锡": [
-    "淡马锡"],
- "游戏": [
-    "游戏"],
- "澳門": [
-    "澳門"],
- "澳门": [
-    "澳门"],
- "点看": [
-    "点看"],
- "珠宝": [
-    "珠宝"],
- "移动": [
-    "移动"],
- "组织机构": [
-    "组织机构"],
- "网址": [
-    "网址"],
- "网店": [
-    "网店"],
- "网站": [
-    "网站"],
- "网络": [
-    "网络"],
- "联通": [
-    "联通"],
- "臺灣": [
-    "臺灣"],
- "诺基亚": [
-    "诺基亚"],
- "谷歌": [
-    "谷歌"],
- "购物": [
-    "购物"],
- "通販": [
-    "通販"],
- "集团": [
-    "集团"],
- "電訊盈科": [
-    "電訊盈科"],
- "飞利浦": [
-    "飞利浦"],
- "食品": [
-    "食品"],
- "餐厅": [
-    "餐厅"],
- "香格里拉": [
-    "香格里拉"],
- "香港": [
-    "香港"],
- "닷넷": [
-    "닷넷"],
- "닷컴": [
-    "닷컴"],
- "삼성": [
-    "삼성"],
- "한국": [
-    "한국"]
+    "ак.срб"]
 };

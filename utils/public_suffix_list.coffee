@@ -24,8 +24,9 @@ readline.createInterface
 .on 'close', ->
     list.sort()
     write 'export default {'
-    for key, i in list
-        write ',' if i > 0
+    firstKey = true
+    for key in list when dict[key].length > 1
+        if firstKey then firstKey = false else write ','
         write "\n \"#{key}\": ["
         for line, j in dict[key]
             write ',' if j > 0
