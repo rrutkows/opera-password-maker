@@ -1,4 +1,8 @@
-import { getDomainName, makePassword } from 'pmaker-lib/pmaker';
+import { makePassword } from 'pmaker-lib/pmaker';
+import effectiveTLDNames from 'pmaker-lib/effectiveTLDNames';
+import UrlParser from 'pmaker-lib/urlParser';
+
+const urlParser = new UrlParser(effectiveTLDNames);
 
 window.addEventListener('load', function() {
     function getActiveTab(callback) {
@@ -18,7 +22,7 @@ window.addEventListener('load', function() {
         chrome.i18n.getMessage('generate_password');
 
     getActiveTab(function(tab) {
-        form.elements['domainName'].value = getDomainName(tab.url);
+        form.elements['domainName'].value = urlParser.getDomainName(tab.url);
     });
 
     form.addEventListener('submit', function(e) {
@@ -33,4 +37,3 @@ window.addEventListener('load', function() {
         });
     }, false);
 }, false);
-

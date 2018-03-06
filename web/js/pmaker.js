@@ -1,8 +1,11 @@
-import { getDomainName, makePassword } from 'pmaker-lib/pmaker';
+import { makePassword } from 'pmaker-lib/pmaker';
+import effectiveTLDNames from 'pmaker-lib/effectiveTLDNames';
+import UrlParser from 'pmaker-lib/urlParser';
 
 var form = document.forms['password-maker-form'];
 var fields = form.elements;
 var defaultPasswordLength = 10;
+const urlParser = new UrlParser(effectiveTLDNames);
 
 function parsePasswordLength(sLength) {
     var passwordLength = parseInt(sLength);
@@ -22,7 +25,7 @@ if (window.localStorage) {
 form.onsubmit = function() {
     var masterPassword = fields['master-password'].value;
     var url = fields['url'].value;
-    var domainName = getDomainName(url);
+    var domainName = urlParser.getDomainName(url);
     var passwordLength = parsePasswordLength(fields['password-length'].value);
     var password;
 
