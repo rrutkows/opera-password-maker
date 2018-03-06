@@ -1,5 +1,6 @@
 {
   "private": true,
+  "license": "BSD-3-Clause",
   "scripts": {
     "public_suffix_list": "coffee utils/public_suffix_list.coffee",
     "start": "webpack-dev-server --open --mode=development",
