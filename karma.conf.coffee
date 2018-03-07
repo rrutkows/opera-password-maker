@@ -33,6 +33,17 @@ module.exports = (config) ->
 
     webpack: Object.assign {}, webpack[0],
       mode: 'development'
+      module:
+        rules: [
+          {
+            test: /\.js$/
+            exclude: /node_modules/
+            use:
+              loader: 'babel-loader'
+              options:
+                presets: [['env', modules: false]]
+          }
+        ]
 
     # test results reporter to use
     # possible values: 'dots', 'progress'

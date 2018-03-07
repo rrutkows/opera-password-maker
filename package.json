@@ -9,6 +9,9 @@
     "test": "npm run test:lint && npm run test:unit"
   },
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
     "coffeescript": "^2.2.2",
     "eslint": "^3.14.0",
     "eslint-config-standard": "^6.2.1",
