@@ -1,8 +1,4 @@
-import { makePassword } from 'pmaker-lib/pmaker';
-import effectiveTLDNames from 'pmaker-lib/effectiveTLDNames';
-import UrlParser from 'pmaker-lib/urlParser';
-
-const urlParser = new UrlParser(effectiveTLDNames);
+import { urlParser, algorithms } from 'pmaker-lib/wire';
 
 window.addEventListener('load', function() {
     function getActiveTab(callback) {
@@ -29,7 +25,7 @@ window.addEventListener('load', function() {
         e.preventDefault();
         var masterPassword = form.elements['masterPassword'].value;
         var domainName = form.elements['domainName'].value;
-        var password = makePassword(masterPassword, domainName, 10);
+        var password = algorithms[1].value.makePassword(masterPassword, domainName, 10);
 
         getActiveTab(function(tab) {
             chrome.tabs.sendMessage(tab.id, {password: password});

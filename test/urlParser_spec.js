@@ -23,7 +23,7 @@ describe('UrlParser', () => {
 
         it('ignores scheme and port number', () => {
             expect(urlParser.getDomainName('scheme://domain:1234/path')).toBe('domain');
-        })
+        });
 
         it('converts the domain name to lower case', () => {
             expect(urlParser.getDomainName('DomaiN')).toBe('domain');
