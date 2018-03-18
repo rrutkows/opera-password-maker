@@ -1,4 +1,4 @@
-import { urlParser, algorithms } from 'pmaker-lib/wire';
+import { urlParser, algorithms } from '../common/wire';
 
 var form = document.forms['password-maker-form'];
 var fields = form.elements;

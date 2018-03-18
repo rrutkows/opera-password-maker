@@ -1,7 +1,7 @@
 # Karma configuration
 # Generated on Wed Feb 28 2018 23:02:31 GMT+0100 (Central European Standard Time)
 
-webpack = require './webpack.config'
+path = require 'path'
 
 module.exports = (config) ->
   config.set
@@ -31,7 +31,7 @@ module.exports = (config) ->
     preprocessors:
       'test/**/*spec.js': [ 'webpack' ]
 
-    webpack: Object.assign {}, webpack[0],
+    webpack:
       mode: 'development'
       module:
         rules: [
@@ -44,6 +44,9 @@ module.exports = (config) ->
                 presets: [['env', modules: false]]
           }
         ]
+      resolve:
+        alias:
+          pmaker: path.resolve __dirname, 'src'
 
     # test results reporter to use
     # possible values: 'dots', 'progress'

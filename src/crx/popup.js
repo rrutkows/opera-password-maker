@@ -1,4 +1,4 @@
-import { urlParser, algorithms } from 'pmaker-lib/wire';
+import { urlParser, algorithms } from '../common/wire';
 
 window.addEventListener('load', function() {
     function getActiveTab(callback) {
